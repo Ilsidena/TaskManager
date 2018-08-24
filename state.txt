@@ -1,0 +1,75 @@
+2
+Bank adress
+1600 Amphitheatre Parkway, Mountain View, California, U.S.
+List of books
+"Alice in the Wonderland", "The green mile", "Macbeth"
+6
+Get books in the Library
+
+20/07/2018
+{0 }
+zsfgsdgdb
+
+20/09/2018
+{}
+Go to the shop
+Take milk!
+07/07/2018
+{}
+Visit Granny
+
+07/07/2018
+{}
+Party
+
+13/07/2018
+{}
+get books
+
+10/07/2018
+{0 }
+1
+Running
+10 minutes
+01/07/2018
+{}
+1
+Go to the gym
+
+04/07/2018
+{}
+0
+0
+8
+Running
+10 minutes
+01/07/2018
+{}
+Running
+10 minutes
+02/07/2018
+{}
+Running
+10 minutes
+03/07/2018
+{}
+Running
+10 minutes
+04/07/2018
+{}
+Go to the gym
+
+04/07/2018
+{}
+Running
+10 minutes
+05/07/2018
+{}
+Running
+10 minutes
+06/07/2018
+{}
+Go to the shop
+Take milk!
+07/07/2018
+{}

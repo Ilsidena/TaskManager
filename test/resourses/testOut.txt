@@ -1,0 +1,19 @@
+2
+Card
+0000 0000 1234 5678
+Adress
+1600 Amphitheatre Parkway, Mountain View, California, U.S.
+1
+Go to the cafe
+At 3 p.m.
+11/10/2018
+{0 1 }
+1
+Go to the bank
+Pay the fine
+11/10/2018
+{0 1 }
+0
+0
+0
+0
